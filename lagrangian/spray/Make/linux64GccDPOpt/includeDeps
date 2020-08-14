@@ -1,0 +1,3 @@
+include clouds/baseClasses/sprayCloud/sprayCloud.dep
+include $(SPRAYPARCEL)/defineBasicSprayParcel.dep
+include $(SPRAYPARCEL)/makeBasicSprayParcelSubmodels.dep

@@ -1,0 +1,4 @@
+DEPENDENCIES = \
+clouds/baseClasses/sprayCloud/sprayCloud.dep\
+$(SPRAYPARCEL)/defineBasicSprayParcel.dep\
+$(SPRAYPARCEL)/makeBasicSprayParcelSubmodels.dep

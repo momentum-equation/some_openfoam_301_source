@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+sprayCloud.o\
+defineBasicSprayParcel.o\
+makeBasicSprayParcelSubmodels.o

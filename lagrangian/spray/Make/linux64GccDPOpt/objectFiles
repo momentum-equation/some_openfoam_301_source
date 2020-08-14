@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/sprayCloud.o\
+$(OBJECTS_DIR)/defineBasicSprayParcel.o\
+$(OBJECTS_DIR)/makeBasicSprayParcelSubmodels.o
